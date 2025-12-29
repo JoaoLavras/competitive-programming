@@ -1,0 +1,21 @@
+# ===== C++ =====
+*.o
+*.out
+a.out
+
+# Executáveis sem extensão (Linux)
+helloworld
+twosum
+
+# Build
+build/
+cmake-build-*/
+
+# ===== Sublime Text =====
+*.sublime-workspace
+*.sublime-project
+
+# ===== Sistema =====
+*.log
+*.tmp
+nano.save
